@@ -1,8 +1,10 @@
 # PyMuPDF Wheels
-PyMuPDF wheels for all Python and Windows versions
+This repository contains Python wheels for the latest version of [PyMuPDF](https://github.com/rk700/PyMuPDF).
 
-Contains Python wheel versions for all PyMuPDF zip files in the [optional material repository](https://github.com/JorjMcKie/PyMuPDF-Optional-Material) for those who prefer the standard wheel format.
+For each supported operating system, there exists a separate branch with the respective wheels:
 
-To control upload times, we are currently restricting ourselves to Python versions we have found to actually be in demand.
+* branch `windows`: wheels for MS Windows. These wheels are suitable for all MS Windows versions Windows XP/SP1 and up. Select the right one for you Python version and bitness.
+* branch `osx`: Mac OS wheels for the most popular Python versions.
+* branch `linux`: Linux wheels for the most popular Python versions.
 
-However, any version 2.7 or above is supported, so please record an issue [here](https://github.com/rk700/PyMuPDF/issues) if you are missing your case.
+For any comments or issues, please use the [issue tracker](https://github.com/rk700/PyMuPDF/issues) of PyMuPDF.
