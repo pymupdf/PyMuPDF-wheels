@@ -1,4 +1,6 @@
 # PyMuPDF Wheels
+**This repository is being phased out.** Use PyMuPDF's [releases folder](https://github.com/rk700/pymupdf/releases) instead to find the wheel you need.
+
 This repository contains Python wheels for the latest version of [PyMuPDF](https://github.com/rk700/PyMuPDF).
 
 For each supported operating system, there exists a separate branch with the respective wheels:
