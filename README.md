@@ -8,9 +8,5 @@ Please find official versions on [PyPI](https://pypi.org/project/PyMuPDF/#files)
 
 ----------
 
-After a long pause because of moving away from Travis CI, this repository came back into use for v1.19.2 and later wheels. In the course of this reactivation, the original approach of putting the wheels in platforms in different branches, they can now all be found in one common folder.
-
-----------
-
 If you like my work with PyMuPDF, you might want to consider a PayPal donation: 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PE6665GMGMDEY&source=url)
